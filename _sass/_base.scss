@@ -401,23 +401,23 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 2.5rem;
+    font-size: 2rem; // Reduced from 2.5rem to 2rem
 
     a {
       img {
-        width: 2rem;
-        height: 2rem;
-        margin-bottom: 0.5rem;
+        width: 1.5rem; // Reduced from 2rem to 1.5rem
+        height: 1.5rem; // Reduced from 2rem to 1.5rem
+        margin-bottom: 0.4rem; // Reduced from 0.5rem to 0.4rem
       }
 
       svg {
-        width: 2.2rem;
-        height: 2.5rem;
-        margin-bottom: 0.3rem;
+        width: 1.8rem; // Reduced from 2.2rem to 1.8rem
+        height: 2rem; // Reduced from 2.5rem to 2rem
+        margin-bottom: 0.2rem; // Reduced from 0.3rem to 0.2rem
 
         image {
-          width: 2.2rem;
-          height: 2.2rem;
+          width: 1.8rem; // Reduced from 2.2rem to 1.8rem
+          height: 1.8rem; // Reduced from 2.2rem to 1.8rem
         }
       }
 
@@ -437,7 +437,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 0.7rem; // Reduced from 0.8rem to 0.7rem
   }
 }
 
