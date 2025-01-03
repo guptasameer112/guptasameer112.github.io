@@ -1,5 +1,11 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm Sameer:
+- 4th-year Computer Science student at IIIT-Delhi.
+- Dabbles into research every now and then, currently working on a data science financial tournament project with [Dr. Gautam Shroff](https://iiitd.ac.in/gautam).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm currently interested in Quantative trading, Machine Learning, Business, Finance & Cybersecurity, along with building robust, reliable and scalable systems.
+How do we bring the beauty of algorithmic trading to the masses, while keeping it non-expensiveand accessible?
+
+As a bonus aiming to build startups that are at the intersection of technology and finance, and can help improve the lives of people.
+
+Previously, I collaborated with [Dr. Sambuddho Chakraborty](https://iiitd.ac.in/sambuddho) on developing honeypots designed to detect, forecast, and mitigate dynamic virus signatures, along with [Dr. Dhruv Kumar](https://iiitd.ac.in/dhruv) and MAX Healthcare on identifying different breast cancer subtypes as ER, PR, HER2 biomarkers using deep learning.
