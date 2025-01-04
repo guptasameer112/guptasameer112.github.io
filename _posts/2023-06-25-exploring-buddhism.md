@@ -10,7 +10,7 @@ featured: true
 
 #### Everyone has a story to tell.
 
-![Entrance of Tushita Meditation Center](../images/Tushita0.jpg "Entrance of Tushita Meditation Center")
+{% include figure.liquid loading="eager" path="assets/img/Tushita0.jpg" class="img-fluid rounded z-depth-1" %}
 
 #### About This Journey
 
@@ -26,7 +26,7 @@ I've always struggled with defining the unique selling point of this blog. It st
 
 Does it ever happen to you where you open your phone to look at something, and before you know it, you are watching cat videos and it's 3 AM? My Google search one evening took a similar turn, starting from "Therapy Groups in Delhi" to "Meditation Centers in Delhi." Among the many suggestions, one jewel stood out: Tushita, located in the posh heart of Delhi, Hauz Khas.
 
-![Inside Tushita Meditation Center](../images/Tushita1.jpg)
+{% include figure.liquid loading="eager" path="assets/img/Tushita1.jpg" class="img-fluid rounded z-depth-1" %}
 
 I impulsively texted my best friend about this place, eager to attend their next session. Despite the summer heat, the walk from the metro station was worth the effort. The entrance to Tushita, depicted in the photo at the top, welcomes you to a world cut off from the outside—no internet, no network, just people and meaningful conversations.
 
@@ -34,13 +34,13 @@ During my first visit, the teacher, known as *Venerable*, not "Vulnerable" (a mi
 
 #### A Session to Remember
 
-![Meditation session at Tushita](../images/Tushita3.jpg)
+{% include figure.liquid loading="eager" path="assets/img/Tushita3.jpg" class="img-fluid rounded z-depth-1" %}
 
 The session began with a simple meditation to leave the day behind, followed by teachings that were both profound and personal. It's an experience I choose not to fully document here because it's something you truly have to experience firsthand.
 
 ---
 
-![Group photo at Tushita](../images/Tushita4.jpg)
+{% include figure.liquid loading="eager" path="assets/img/Tushita4.jpg" class="img-fluid rounded z-depth-1" %}
 
 *Caption: A group photo from one of our last sessions at Tushita. It was indeed a long day, but fulfilling.*
 
@@ -51,4 +51,3 @@ The experience at Tushita brought a calmness to me that is hard to describe. I'v
 *Tushita is currently on a summer break and will resume sessions on August 15.*
 
 Signing off for now, and remember—everyone has a story to tell.
-
