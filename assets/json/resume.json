@@ -105,37 +105,12 @@
   "skills": [
     {
       "name": "Technical Skills",
-      "subcategories": [
-        {
-          "name": "Web Development",
-          "keywords": [
-            "Django", "React", "FastAPI", "Docker"
-          ]
-        },
-        {
-          "name": "Machine Learning",
-          "keywords": [
-            "Machine Learning", "PyTorch", "GenAI"
-          ]
-        },
-        {
-          "name": "Systems & Networking",
-          "keywords": [
-            "Operating Systems", "Computer Networks", "Network Security"
-          ]
-        },
-        {
-          "name": "Database Management",
-          "keywords": [
-            "Database Management Systems", "SQL", "NoSQL", "Data Warehousing"
-          ]
-        },
-        {
-          "name": "Algorithms & Data Structures",
-          "keywords": [
-            "Algorithm Design", "Data Structures"
-          ]
-        }
+      "keywords": [
+        "Django", "React", "FastAPI", "Docker",
+        "Machine Learning", "PyTorch", "GenAI",
+        "Operating Systems", "Computer Networks", "Network Security",
+        "Database Management Systems", "SQL", "NoSQL", "Data Warehousing",
+        "Algorithm Design", "Data Structures"
       ]
     },
     {
@@ -147,12 +122,12 @@
   ],
   "awards": [
     {
-      "title": "Ranked 2nd Worldwide at WreckCTF 2022",
+      "title": "Ranked 2nd Worldwide at WreckCTF 2022 with d4rkcOde (College Cybersecurity Team)",
       "organization": "d4rkcOde",
       "date": "2022"
     },
     {
-      "title": "Ranked 4th Worldwide at Digital Overdose CTF 2022",
+      "title": "Ranked 4th Worldwide at Digital Overdose CTF 2022 with d4rkcOde (College Cybersecurity Team)",
       "organization": "d4rkcOde",
       "date": "2022"
     }
