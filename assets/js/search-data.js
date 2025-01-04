@@ -49,7 +49,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/exploring-buddhism/";
+          window.location.href = "/blog/2023/exploring-buddhism/";
         
       },
     },{id: "news-joined-iiit-delhi-as-a-computer-science-major",
