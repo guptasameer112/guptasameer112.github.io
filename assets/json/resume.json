@@ -106,11 +106,20 @@
     {
       "name": "Technical Skills",
       "keywords": [
-        "Django", "React", "FastAPI", "Docker",
-        "Machine Learning", "PyTorch", "GenAI",
-        "Operating Systems", "Computer Networks", "Network Security",
-        "Database Management Systems", "SQL", "NoSQL", "Data Warehousing",
-        "Algorithm Design", "Data Structures"
+        "Django", 
+        "React", 
+        "FastAPI", 
+        "Containerization",
+        "PyTorch", 
+        "TensorFlow",
+        "GenAI",
+        "Operating Systems", 
+        "Computer Networks", 
+        "SQL", 
+        "NoSQL", 
+        "Apache Spark",
+        "Algorithm Design", 
+        "Data Structures"
       ]
     },
     {
