@@ -30,18 +30,32 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-formatting-and-links",
+        },{id: "post-exploring-spaces-cafes-and-libraries-as-sanctuaries",
       
-        title: "a post with formatting and links",
+        title: "Exploring Spaces - Cafes and Libraries as Sanctuaries",
       
-      description: "march &amp; april, looking forward to summer",
+      description: "A journey through my favorite places to study and unwind: from bustling libraries to serene cafes.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/formatting-and-links/";
+          window.location.href = "/blog/2025/libraries/";
         
       },
-    },{id: "news-interned-at-microsoft-india-in-the-azure-networking-team-built-a-fullstack-intelligent-agent-for-ticket-resolution",
+    },{id: "post-exploring-buddhism",
+      
+        title: "Exploring Buddhism",
+      
+      description: "Journey into Buddhism, meditation, and self-discovery at Tushita Meditation Center.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2015/exploring-buddhism/";
+        
+      },
+    },{id: "news-joined-iiit-delhi-as-a-computer-science-major",
+          title: 'Joined IIIT-Delhi as a computer science major.',
+          description: "",
+          section: "News",},{id: "news-interned-at-microsoft-india-in-the-azure-networking-team-built-a-fullstack-intelligent-agent-for-ticket-resolution",
           title: 'Interned at Microsoft India, in the Azure Networking team, built a fullstack intelligent...',
           description: "",
           section: "News",},{id: "projects-project-1",
