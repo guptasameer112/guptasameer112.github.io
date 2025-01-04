@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring Spaces - Cafes and Libraries as Sanctuaries"
-date: 2025-01-04 16:40:16
+date: 2023-07-06 16:40:16
 description: "A journey through my favorite places to study and unwind: from bustling libraries to serene cafes."
 tags: Life
 categories: Exploring
