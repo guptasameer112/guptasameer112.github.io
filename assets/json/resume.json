@@ -145,16 +145,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Hindi",
-      "fluency": "Native"
-    }
-  ],
   "awards": [
     {
       "title": "Ranked 2nd Worldwide at WreckCTF 2022",
@@ -165,6 +155,71 @@
       "title": "Ranked 4th Worldwide at Digital Overdose CTF 2022",
       "organization": "d4rkcOde",
       "date": "2022"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Literate Bachpan Foundation",
+      "location": "Delhi, India",
+      "position": "Teacher",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-04-01",
+      "summary": "Taught underprivileged children basic computer skills and programming concepts, along with Maths."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Ethical Hacking Essentials",
+      "date": "2024-11-23",
+      "issuer": "EC-Council",
+      "url": "https://coursera.org/verify/KRFDXKRHA4Q9",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Fundamentals of Machine Learning in Finance",
+      "date": "2024-04-08",
+      "issuer": "New York University",
+      "url": "https://coursera.org/verify/FMBT62PBC4FR",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Guided Tour of Machine Learning in Finance",
+      "date": "2024-04-06",
+      "issuer": "New York University",
+      "url": "https://coursera.org/verify/B5BU6NKUVE6B",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Overview of Advanced Methods of Reinforcement Learning in Finance",
+      "date": "2024-04-13",
+      "issuer": "New York University",
+      "url": "https://coursera.org/verify/MH6C5GZKLHRN",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Reinforcement Learning in Finance",
+      "date": "2024-04-13",
+      "issuer": "New York University",
+      "url": "https://coursera.org/verify/SVWV7W7BZFVZ",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Machine Learning and Reinforcement Learning in Finance Specialization",
+      "date": "2024-04-13",
+      "issuer": "New York University",
+      "url": "https://coursera.org/verify/specialization/PMKXUDJCZVBP",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native"
     }
   ]
 }
