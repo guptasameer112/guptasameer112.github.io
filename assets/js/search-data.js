@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-exploring-buddhism",
+        },{id: "post-exploring-spaces-cafes-and-libraries-as-sanctuaries",
+      
+        title: "Exploring Spaces - Cafes and Libraries as Sanctuaries",
+      
+      description: "A journey through my favorite places to study and unwind: from bustling libraries to serene cafes.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/libraries/";
+        
+      },
+    },{id: "post-exploring-buddhism",
       
         title: "Exploring Buddhism",
       
@@ -64,14 +75,14 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/guptasameer112", "_blank");
+          window.open("https://github.com/guptasameer112", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/sameer-gupta-198b11160/", "_blank");
+          window.open("https://www.linkedin.com/in/sameer-gupta-198b11160/", "_blank");
         },
       },{
       id: 'light-theme',
