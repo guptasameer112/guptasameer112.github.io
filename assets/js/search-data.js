@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-exploring-spaces-cafes-and-libraries-as-sanctuaries",
-      
-        title: "Exploring Spaces - Cafes and Libraries as Sanctuaries",
-      
-      description: "A journey through my favorite places to study and unwind: from bustling libraries to serene cafes.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/libraries/";
-        
-      },
-    },{id: "post-exploring-buddhism",
+        },{id: "post-exploring-buddhism",
       
         title: "Exploring Buddhism",
       
