@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring Buddhism"
-date: 2015-03-15 16:40:16
+date: 2023-06-25 16:40:16
 description: "Journey into Buddhism, meditation, and self-discovery at Tushita Meditation Center."
 tags: Life 
 categories: Exploring
