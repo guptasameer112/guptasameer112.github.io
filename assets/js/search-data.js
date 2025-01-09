@@ -58,9 +58,9 @@ ninja.data = [{
           section: "News",},{id: "news-interned-at-microsoft-india-in-the-azure-networking-team-built-a-fullstack-intelligent-agent-for-ticket-resolution",
           title: 'Interned at Microsoft India, in the Azure Networking team, built a fullstack intelligent...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-finsync",
+          title: 'FinSync',
+          description: "A aggregation system for financial data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
