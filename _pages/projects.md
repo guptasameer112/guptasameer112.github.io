@@ -5,7 +5,7 @@ permalink: /projects/
 description: Find all my projects here!
 nav: true
 nav_order: 3
-display_categories: [personal, college, fun]
+display_categories: [college, personal, fun]
 horizontal: false
 ---
 
