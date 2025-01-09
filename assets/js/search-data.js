@@ -58,11 +58,31 @@ ninja.data = [{
           section: "News",},{id: "news-interned-at-microsoft-india-in-the-azure-networking-team-built-a-fullstack-intelligent-agent-for-ticket-resolution",
           title: 'Interned at Microsoft India, in the Azure Networking team, built a fullstack intelligent...',
           description: "",
-          section: "News",},{id: "projects-finsync",
+          section: "News",},{id: "projects-25acres",
+          title: '25acres',
+          description: "A Real Estate Bidding System; designed to facilitate the secure exchange and verification of property-related documents.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/25acres/";
+            },},{id: "projects-finsync",
           title: 'FinSync',
           description: "A aggregation system for financial data",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/finsync/";
+            },},{id: "projects-jokes-rec",
+          title: 'Jokes Rec',
+          description: "A collaborative filtering and content-based recommendation system for jokes.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/jokes-rec/";
+            },},{id: "projects-nerdlabs",
+          title: 'NerdLabs',
+          description: "A ecommerce website for selling tech products",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nerdlabs/";
+            },},{id: "projects-tank-stars",
+          title: 'Tank Stars',
+          description: "A 2 player java game based on the original tank stars game using libGDX.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tank-stars/";
             },},{
         id: 'social-email',
         title: 'email',
