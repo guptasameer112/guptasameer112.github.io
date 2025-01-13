@@ -7,74 +7,32 @@ importance: 3
 category: college
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Github Link: [NerdLabs](https://github.com/guptasameer112/NerdLabs)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Project Overview**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+*NerdLabs* is a comprehensive web application designed as the final project for the CSE202: Fundamentals of Database Management Systems course. This platform efficiently handles the management and interaction with an e-commerce database for a computer parts retail store. It provides a user-friendly interface for customers and admins alike, facilitating seamless operations such as browsing, purchasing, and managing products, while also handling tasks like user authentication and inventory management.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The application includes essential features that streamline both the customer shopping experience and the administrative management of products, sales, and inventory.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**Technologies Used**
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+The project is built using **Python** and the **Flask framework**, ensuring a lightweight yet scalable web application. The back-end leverages a robust **relational database schema** designed to efficiently store and manage information such as product details, customer data, and purchase history.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+**Features and Functionalities**
 
-{% raw %}
+- **User Authentication**: A secure login and registration system to manage user access, ensuring only authorized users can make purchases or manage the store.
+  
+- **Product Search and Filtering**: Users can search for products based on various criteria such as name, brand, or type, and apply filters like price or ratings for an enhanced browsing experience.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- **Shopping Cart Management**: Customers can add products to their cart, update quantities, and proceed to checkout with real-time updates on pricing and delivery times.
 
-{% endraw %}
+- **Inventory and Product Management**: Admins can manage product details, update inventory quantities, add new products, and remove outdated ones. They can also offer discounts and promotions on specific items.
+
+- **Store Statistics and Reporting**: Admins can view detailed statistics such as revenue generation, product sales, and inventory status. Reports can be generated from SQL queries, OLAP queries, and transactions.
+
+- **Transaction Handling**: The application efficiently handles database transactions, ensuring accurate processing of orders, updates to inventory, and customer order history.
+
+These features work together to provide an intuitive and effective system for managing a retail store’s database, making it easier for both customers and administrators to interact with the platform.
+
+For more details on the project, please visit the [NerdLabs GitHub Repository](https://github.com/guptasameer112/NerdLabs).

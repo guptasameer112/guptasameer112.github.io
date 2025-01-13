@@ -7,74 +7,32 @@ importance: 3
 category: college
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Github Link: [Tank Stars](https://github.com/guptasameer112/Tank-Stars)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Project Overview**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Tank-Stars is a desktop adaptation of the popular mobile game "Tank Stars," developed using Java and the LibGDX framework. This project was undertaken as part of the Advanced Programming course (CSE 201) at IIIT Delhi, under the guidance of Prof. Raghava Mutharaju during the Monsoon'22 semester. The game offers a turn-based combat experience where players control tanks, aiming to defeat their opponents through strategic shooting and movement.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+**Technologies Used**
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The game is developed using Java, leveraging the LibGDX framework for cross-platform game development. This combination ensures a robust and scalable gaming experience across various platforms.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+**Features and Functionalities**
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- **1 vs 1 Turn-Based Combat**: Players engage in one-on-one battles, taking turns to fire shots with the objective of depleting the opponent's health.
 
-{% raw %}
+- **Trajectory Control**: Players can adjust the power and angle of their shots, adding a strategic element to each turn.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- **Damage Impact and Tank Movement**: The effect of a shot depends on the precision of the hit. A direct hit inflicts maximum damage, while a near-miss reduces the damage based on proximity. Additionally, the affected tank moves in the direction of the impact, with movement proportional to the hit's accuracy.
 
-{% endraw %}
+- **Tank Selection**: Before starting the game, players can choose from three distinct tanks, each offering unique attributes, allowing for a variety of strategies.
+
+- **Pause Menu**: The game features an intuitive pause menu, where players can save their progress, resume gameplay, or exit to the main menu at any point during the game.
+
+- **Game State Persistence**: The game supports save/load functionality, enabling players to store and resume progress. Saved game data includes health status of both players, exact position of the tanks, and terrain orientation. Multiple save slots (up to 4) are supported, allowing players to manage their game progress across different sessions.
+
+- **Randomized Terrain Generation**: Each game features a randomly generated landscape, ensuring a unique experience with every match.
+
+These features collectively enhance the gaming experience by providing engaging and strategic gameplay, ensuring replayability and user satisfaction.
+
+For a more detailed exploration of the project, you can visit the [Tank-Stars GitHub Repository](https://github.com/guptasameer112/Tank-Stars). 
