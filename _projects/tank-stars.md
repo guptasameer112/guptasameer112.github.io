@@ -2,7 +2,7 @@
 layout: page
 title: Tank Stars
 description: A 2 player java game based on the original tank stars game using libGDX.
-img: 
+img: /assets/img/tankstars.png
 importance: 3
 category: college
 ---

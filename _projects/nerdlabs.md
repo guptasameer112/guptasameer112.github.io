@@ -2,7 +2,7 @@
 layout: page
 title: NerdLabs
 description: A ecommerce website for selling tech products
-img: 
+img: /assets/img/nerdlabs.png
 importance: 3
 category: college
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 25acres
 description: A Real Estate Bidding System; designed to facilitate the secure exchange and verification of property-related documents.
-img: 
+img: /assets/img/25acres.png
 importance: 3
 category: college
 ---
