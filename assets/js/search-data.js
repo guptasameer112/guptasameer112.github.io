@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-exploring-spaces-cafes-and-libraries-as-sanctuaries",
+        },{id: "post-understanding-agentic-workflows-a-friendly-guide",
+      
+        title: "Understanding Agentic Workflows: A friendly guide.",
+      
+      description: "A journey through the world of agents and what they actually are.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/agents/";
+        
+      },
+    },{id: "post-exploring-spaces-cafes-and-libraries-as-sanctuaries",
       
         title: "Exploring Spaces - Cafes and Libraries as Sanctuaries",
       
