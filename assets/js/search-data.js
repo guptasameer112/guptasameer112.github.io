@@ -38,7 +38,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/agents/";
+          window.location.href = "/blog/2025/agents/";
         
       },
     },{id: "post-exploring-spaces-cafes-and-libraries-as-sanctuaries",
