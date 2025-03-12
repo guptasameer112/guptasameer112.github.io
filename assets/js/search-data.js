@@ -30,15 +30,48 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-understanding-agentic-workflows-a-friendly-guide",
+        },{id: "post-maxim-understanding-agentic-systems",
       
-        title: "Understanding Agentic Workflows: A friendly guide.",
+        title: "Maxim: Understanding Agentic Systems",
       
-      description: "A journey through the world of agents and what they actually are.",
+      description: "Exploring the quality evaluation of AI agent systems.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/agents/";
+          window.location.href = "/blog/2025/maxim-understanding-agentic-systems/";
+        
+      },
+    },{id: "post-maxim-tracing-your-agent-using-maxim",
+      
+        title: "Maxim: Tracing your Agent using Maxim",
+      
+      description: "Trace and evaluate your agent&#39;s performance using Maxim.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/maxim-tracing-your-agent/";
+        
+      },
+    },{id: "post-maxim-simulate-and-evaluate-your-agents-using-maxim",
+      
+        title: "Maxim: Simulate and Evaluate your Agents using Maxim",
+      
+      description: "Learn how to simulate and evaluate your agents using Maxim.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/maxim-simulate-and-evaluate-your-agents/";
+        
+      },
+    },{id: "post-maxim-metrics-for-evaluating-agentic-workflows",
+      
+        title: "Maxim: Metrics for Evaluating Agentic Workflows",
+      
+      description: "Metrics to evaluate the effectiveness of agentic workflows.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/maxim-metrics-for-evaluating-agentic-workflows/";
         
       },
     },{id: "post-exploring-spaces-cafes-and-libraries-as-sanctuaries",
