@@ -32,46 +32,35 @@ ninja.data = [{
           },
         },{id: "post-maxim-understanding-agentic-systems",
       
-        title: "Maxim: Understanding Agentic Systems",
+        title: 'Maxim: Understanding Agentic Systems <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "Exploring the quality evaluation of AI agent systems.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/maxim-understanding-agentic-systems/";
+          window.open("https://www.getmaxim.ai/blog/ai-agent-quality-evaluation/", "_blank");
         
       },
     },{id: "post-maxim-tracing-your-agent-using-maxim",
       
-        title: "Maxim: Tracing your Agent using Maxim",
+        title: 'Maxim: Tracing your Agent using Maxim <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "Trace and evaluate your agent&#39;s performance using Maxim.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/maxim-tracing-your-agent/";
+          window.open("https://github.com/maximhq/maxim-cookbooks/blob/main/python/observability-online-eval/customer-support-agent/tracing-eval.ipynb", "_blank");
         
       },
     },{id: "post-maxim-simulate-and-evaluate-your-agents-using-maxim",
       
-        title: "Maxim: Simulate and Evaluate your Agents using Maxim",
+        title: 'Maxim: Simulate and Evaluate your Agents using Maxim <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
       description: "Learn how to simulate and evaluate your agents using Maxim.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/maxim-simulate-and-evaluate-your-agents/";
-        
-      },
-    },{id: "post-maxim-metrics-for-evaluating-agentic-workflows",
-      
-        title: "Maxim: Metrics for Evaluating Agentic Workflows",
-      
-      description: "Metrics to evaluate the effectiveness of agentic workflows.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/maxim-metrics-for-evaluating-agentic-workflows/";
+          window.open("https://github.com/maximhq/maxim-cookbooks/blob/main/python/simulation/simulation-workflow.md", "_blank");
         
       },
     },{id: "post-exploring-spaces-cafes-and-libraries-as-sanctuaries",
