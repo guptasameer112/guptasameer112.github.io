@@ -5,7 +5,7 @@ date: 2023-06-25 16:40:16
 description: "Journey into Buddhism, meditation, and self-discovery at Tushita Meditation Center."
 tags: Life 
 categories: Exploring
-featured: true
+featured: false
 ---
 
 #### Everyone has a story to tell.
