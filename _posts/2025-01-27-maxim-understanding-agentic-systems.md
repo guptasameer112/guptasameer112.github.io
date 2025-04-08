@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Maxim: Understanding Agentic Systems"
-date: 2025-03-10 16:40:16
-description: "Exploring the quality evaluation of AI agent systems."
+title: "Maxim: CoTools"
+date: 2025-04-08 19:58:00
+description: "Future of LLM Tool Use for Complex Reasoning."
 tags: AI, Maxim
 categories: Agents
 featured: true
-redirect: "https://www.getmaxim.ai/blog/ai-agent-quality-evaluation/"
+redirect: "https://www.getmaxim.ai/blog/chain-of-tools-llm-framework/"
 ---
 
 Redirecting to another page.
