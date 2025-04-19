@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-maxim-cotools",
+        },{id: "post-maxim-prompt-engineering",
+      
+        title: 'Maxim: Prompt Engineering <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "A Practical Guide for Better AI Outcomes.",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.getmaxim.ai/blog/mastering-prompt-engineering/", "_blank");
+        
+      },
+    },{id: "post-maxim-apigen-mt",
+      
+        title: 'Maxim: APIGen-MT <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "Structured Multi-Turn Data via Simulation.",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.getmaxim.ai/blog/apigen-mt-structured-multi-turn-training-data-for-agents/", "_blank");
+        
+      },
+    },{id: "post-maxim-cotools",
       
         title: 'Maxim: CoTools <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
