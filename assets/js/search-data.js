@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-maxim-prompt-engineering",
+        },{id: "post-skipping-the-39-thinking-39",
+      
+        title: 'Skipping the &#39;Thinking&#39; <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "How Simple Prompts Can Outperform Complex Reasoning in AI",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.getmaxim.ai/blog/skipping-the-thinking-how-simple-prompts-can-outperform-complex-reasoning-in-ai/", "_blank");
+        
+      },
+    },{id: "post-maxim-prompt-engineering",
       
         title: 'Maxim: Prompt Engineering <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
