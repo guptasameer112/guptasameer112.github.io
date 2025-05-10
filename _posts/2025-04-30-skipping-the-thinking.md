@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Skipping the 'Thinking'"
+title: "Maxim: Skipping the 'Thinking'"
 date: 2025-04-30 19:58:00
 description: "How Simple Prompts Can Outperform Complex Reasoning in AI"
 tags: AI, Maxim
