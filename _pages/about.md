@@ -18,16 +18,11 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I'm Sameer:
-- 4th-year Computer Science student at IIIT-Delhi.
-- Dabbles into research every now and then, currently working on a data science financial tournament project with [Dr. Gautam Shroff](https://iiitd.ac.in/gautam).
-- Currently interning at [Maxim AI](https://www.getmaxim.ai/) as an AI Engineering Intern, helping bridge the gap between research and application.
+- A recent graduate in Computer Science from IIIT-Delhi.
+- I dabble in research every now and then, and love brainstorming & building stuff.
 
-Currently interesting in? Quantative Finance, Machine Learning, Business, Tech & Basketball (casually).
+I'm currently interested in Quantative Trading, Machine Learning, Business & Finance.
 
-As a bonus aiming to build startups that are at the intersection of technology, AI and finance, and working with some of the best folks (still getting there). Currently helping build [Bizad](https://bizad.in) as a consultant and building XSeed, a trading system.  
+As a bonus aiming to build startups that are at the intersection of technology, AI and finance, go check out [BizAd](https://bizad.in).
 
-Previously, I collaborated with [Dr. Sambuddho Chakraborty](https://iiitd.ac.in/sambuddho) on developing honeypots designed to detect, forecast, and mitigate dynamic virus signatures.
-
-Alongside this, I worked with [Dr. Dhruv Kumar](https://iiitd.ac.in/dhruv) and MAX Healthcare on identifying different breast cancer subtypes as ER, PR, HER2 biomarkers using deep learning.
-
-Bit too much?
+Goal is to work with the best folks in the world in the fields of my interest (and get smart enough to gain entry).
