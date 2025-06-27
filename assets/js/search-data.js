@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Find all my projects here!",
+          description: "Find all my projects here! (to be updated soon)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-maxim-skipping-the-39-thinking-39",
+        },{id: "post-maxim-can-your-ai-explain-why-it-s-moral",
+      
+        title: 'Maxim: Can Your AI Explain Why It’s Moral? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "How good is a model&#39;s ethical reasoning, not just it&#39;s final answer?",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://www.getmaxim.ai/blog/can-your-ai-explain-why-its-moral/", "_blank");
+        
+      },
+    },{id: "post-maxim-skipping-the-39-thinking-39",
       
         title: 'Maxim: Skipping the &#39;Thinking&#39; <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -149,11 +160,20 @@ ninja.data = [{
           section: "News",},{id: "news-collaborated-with-dr-dhruv-kumar-and-max-healthcare-for-bio-medical-research",
           title: 'Collaborated with Dr. Dhruv Kumar and MAX Healthcare for bio-medical research.',
           description: "",
+          section: "News",},{id: "news-built-from-scratch-a-data-science-financial-tournament-project-similar-to-kaggle-with-dr-gautam-shroff-check-out-the-tournament-at-numin-tournament-anvil-app",
+          title: 'Built from scratch a data science financial tournament project (similar to Kaggle) with...',
+          description: "",
           section: "News",},{id: "news-interned-at-microsoft-india-in-the-azure-networking-team-built-a-fullstack-intelligent-agent-for-ticket-resolution",
           title: 'Interned at Microsoft India, in the Azure Networking team, built a fullstack intelligent...',
           description: "",
-          section: "News",},{id: "news-joined-maxim-ai-as-an-ai-engineering-intern",
-          title: 'Joined Maxim AI as an AI Engineering Intern.',
+          section: "News",},{id: "news-graduated-from-iiit-delhi-with-a-bachelor-s-degree-in-computer-science",
+          title: 'Graduated from IIIT-Delhi with a Bachelor’s degree in Computer Science.',
+          description: "",
+          section: "News",},{id: "news-worked-with-maxim-ai-over-the-winter-helping-build-useful-agents-and-agentic-evaluators",
+          title: 'Worked with Maxim AI over the winter helping build useful agents and agentic-evaluators....',
+          description: "",
+          section: "News",},{id: "news-joining-microsoft-hyderabad-as-a-sde-1-in-the-azure-networking-division",
+          title: 'Joining Microsoft, Hyderabad as a SDE-1 in the Azure Networking Division.',
           description: "",
           section: "News",},{id: "projects-25acres",
           title: '25acres',
