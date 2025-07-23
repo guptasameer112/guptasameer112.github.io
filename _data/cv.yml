@@ -18,6 +18,7 @@
       institution: Indraprastha Institute of Information Technology, Delhi (IIIT-Delhi)
       year: 2021-2025
       description:
+        - Graduated May 2025
         - CGPA: 8.4/10
     - title: Senior Secondary
       institution: Somerville School, Vasundhara Enclave, Delhi
@@ -33,20 +34,35 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Software Development Engineer 1 (SDE-1)
+      institution: Microsoft, Hyderabad
+      year: Jul 2025 - Present
+      description:
+        - Joining Microsoft, Hyderabad as a SDE-1 in the Azure Networking Division.
+    - title: Agentic AI Researcher
+      institution: Maxim AI
+      year: Winter 2024-2025
+      description:
+        - Worked with Maxim AI over the winter helping build useful agents and agentic-evaluators.
     - title: Software Engineering Intern
       institution: Microsoft, Hyderabad
-      year: May 2024 - July 2024
+      year: Jun 2024 - Jul 2024
       description:
-        - Developed a secure, full-stack web application.
-        - Utilized Azure for machine learning and deployment.
+        - Interned at Microsoft India, in the Azure Networking team, built a fullstack intelligent agent for ticket resolution.
+    - title: Data Science Tournament Developer
+      institution: Indraprastha Institute of Information Technology, Delhi
+      year: Apr 2024
+      description:
+        - Built from scratch a data science financial tournament project (similar to Kaggle) with Dr. Gautam Shroff.
+        - Check out the tournament at numin-tournament.anvil.app.
     - title: Undergraduate Researcher & Developer
       institution: Indraprastha Institute of Information Technology, Delhi
-      year: August 2024 - Present
+      year: Aug 2024 - Present
       description:
         - Developed a machine learning competition platform using financial market data.
     - title: Undergraduate Researcher
       institution: Indraprastha Institute of Information Technology, Delhi
-      year: December 2023 - May 2024
+      year: Dec 2023 - May 2024
       description:
         - Worked on predicting cancer biomarkers using deep learning models.
 
@@ -57,6 +73,8 @@
     - Distributed Systems: Implemented shopping platform, group messaging, and YouTube application using gRPC, ZeroMQ, and RabbitMQ.
     - NerdLabs: Developed an E-commerce Database Management System for a computer parts store.
     - Recommendation System: Implemented User-User and Content-Based Collaborative Filtering algorithms for recommending jokes.
+    - Financial Tournament Platform: Built a data science financial tournament project (similar to Kaggle) with Dr. Gautam Shroff. [numin-tournament.anvil.app](https://numin-tournament.anvil.app)
+    - Agentic Evaluators: Built agentic-evaluators and useful agents at Maxim AI during Winter 2024-2025.
 
 - title: Skills
   type: list
